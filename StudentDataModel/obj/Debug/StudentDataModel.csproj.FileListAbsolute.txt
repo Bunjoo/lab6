@@ -1,0 +1,13 @@
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\StudentDataModel.dll
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\StudentDataModel.pdb
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\System.Web.Cors.dll
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\System.Web.Http.dll
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\System.Web.Http.xml
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\obj\Debug\StudentDataModel.dll
+C:\Users\Judy W\Documents\Google Drive\BCIT CST\Term4\4976\Visual Studio Projects\StudentWebApiCorsLab\StudentDataModel\obj\Debug\StudentDataModel.pdb
